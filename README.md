@@ -6,7 +6,7 @@ Please find the implementation of the smart contracts in the .sol files. For tes
 1. We will be communicating using MetaMask, choose Inject Web3, desired wallet address and use the deployer to deploy the contracts
 <img src="screenshots/1-deploy-using-deployer.png"/>
 2. Once deployed, you will be able to see the token address and the token sale address. Use the At address function to add them to the list of deployed contracts.
-<img src="screenshots/2-at-address-add-token-and-sale.png"/>
+<img src="screenshots/2-at-address-add token-and-sale.png"/>
 
 ### Participate in token sale
 1. Buy some PPC tokens by sending eth to the token sale contract
